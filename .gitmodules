@@ -1,0 +1,4 @@
+[submodule "core-example"]
+	path = core-example
+	url = https://github.com/nguerrera/core-example
+	branch = main
